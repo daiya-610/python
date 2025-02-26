@@ -1,0 +1,8 @@
+{
+    "autopep8.args": ["--ignore", "E402"],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8",
+        "editor.tabSize": 4,
+        "editor.formatOnSave": true
+    },
+}
